@@ -8,5 +8,15 @@
   },
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Susanoo-no-Mikoto/json-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Susanoo-no-Mikoto/json-server/issues"
+  },
+  "homepage": "https://github.com/Susanoo-no-Mikoto/json-server#readme"
 }
